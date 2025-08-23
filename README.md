@@ -14,7 +14,7 @@
 
 ###
 
-<img align="left" height="45" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Tipping%20Hand%20Light%20Skin%20Tone.png"  />
+<img align="left" height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Tipping%20Hand%20Light%20Skin%20Tone.png"  />
 
 ###
 
