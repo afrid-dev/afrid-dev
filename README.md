@@ -114,7 +114,7 @@
 
 ###
 
- <h2 align="left">&nbsp;&nbsp;&nbsp;A Pacman Game on my Contributions Graph:</h2>
+ <h2 align="left">&nbsp;&nbsp;&nbsp;Pac-Man Game on My Contributions Graph:</h2>
 
 ###
 
