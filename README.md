@@ -110,7 +110,7 @@
 
 ###
 
-<img align="left" height="24" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-215.gif"  /> &nbsp;
+<img align="left" height="24" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-215.gif" &nbsp; /> 
 
 ###
 
