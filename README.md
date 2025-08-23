@@ -110,11 +110,11 @@
 
 ###
 
-<img align="left" height="30" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-215.gif"  />
+<img align="left" height="25" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-215.gif"  />
 
 ###
 
-<h2 align="left">A Pacman Game my Contributions Graph:</h2>
+<h2 align="left">A Pacman Game on my Contributions Graph:</h2>
 
 ###
 
