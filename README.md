@@ -1,22 +1,13 @@
-<img align="left" height="58" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348"  />
+<br clear="both">
+
+<img align="left" height="55" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348"  />
 
 ###
 
-<h1 align="center">Hi there, I'm Mounshi Afrid Hossain🧑</h1>
+<img align="right" height="45" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png"  />
 
 ###
 
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="left">Hi there, I'm Mounshi Afrid Hossain</h1>
 
 ###
-
-<div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
