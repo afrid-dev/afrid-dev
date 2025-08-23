@@ -136,13 +136,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mounshi-afrid-hossain/" target="blank">
-    <img src="http://www.w3.org/2000/svg" height="40" alt="linkedin logo"  />
+    <img src="https://thumbnail.imgbin.com/23/2/15/linkedin-linkedin-logo-with-blue-circle-design-eCfResa3_t.jpg" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/munshiafrid.hossain" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="facebook logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/2048px-2023_Facebook_icon.svg.png" height="40" alt="facebook logo"  />
   </a>
 </div>
 
