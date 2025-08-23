@@ -18,4 +18,5 @@
 
 <h2 align="left"></h2>
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
