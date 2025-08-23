@@ -135,15 +135,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mounshi-afrid-hossain/" target="blank">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-icon-png-download-5753431.png" height="50" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mounshi-afrid-hossain/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="190" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com" target="blank">
-    <img src="https://ouch-prod-var-cdn.icons8.com/zt/illustrations/previews/G0BDpKqa70fuir4R.webp" height="40" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="190" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/munshiafrid.hossain" target="blank">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-logo-3d-icon-png-download-12257268.png" height="40" alt="facebook logo"  />
+  <a href="https://www.facebook.com/munshiafrid.hossain" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="190" height="40" alt="facebook logo"  />
   </a>
 </div>
+
+###
 
 ###
