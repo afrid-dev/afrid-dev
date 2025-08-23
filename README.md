@@ -138,7 +138,7 @@
   <a href="https://www.linkedin.com/in/mounshi-afrid-hossain/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="140" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view= cm&fs=1&to=mounshi123@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com"" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="140" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/munshiafrid.hossain" target="_blank">
