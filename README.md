@@ -139,7 +139,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="140" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com" target="blank">
-    <img src="https://similarpng.com/_next/image?url=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fvery-thumbnail%2F2020%2F12%2FGmail-logo-design-on-transparent-background-PNG.png&w=3840&q=75" width="140" height="40" alt="gmail logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="140" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/munshiafrid.hossain" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="140" height="40" alt="facebook logo"  />
