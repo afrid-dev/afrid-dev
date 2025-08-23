@@ -135,13 +135,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mounshi-afrid-hossain/" "target=blank">
+  <a href="https://www.linkedin.com/in/mounshi-afrid-hossain/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="140" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com"" target=blank>
-    <img src="https://cdn.dribbble.com/userupload/29428189/file/original-ddf67c328e5f24751d54062a4a391314.gif" width="140" height="40" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com" target="blank">
+    <img src="https://static.wixstatic.com/media/c71004_d74a47a8a72f448fa2f1d07cd6ece8bb~mv2.gif" width="140" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/munshiafrid.hossain" target="_blank">
+  <a href="https://www.facebook.com/munshiafrid.hossain" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="140" height="40" alt="facebook logo"  />
   </a>
 </div>
