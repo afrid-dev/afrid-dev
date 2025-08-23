@@ -14,7 +14,7 @@
 
 ###
 
-<img align="left" height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Tipping%20Hand%20Light%20Skin%20Tone.png"  />
+<img align="left" height="28" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Tipping%20Hand%20Light%20Skin%20Tone.png"  />
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png"  />
+<img align="left" height="23" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png"  />
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png"  />
+<img align="left" height="23" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png"  />
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png"  />
+<img align="left" height="23" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png"  />
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"  />
+<img align="left" height="23" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"  />
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<img align="left" height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png"  />
+<img align="left" height="28" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png"  />
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<img align="left" height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png"  />
+<img align="left" height="28" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png"  />
 
 ###
 
@@ -110,7 +110,7 @@
 
 ###
 
-<img align="left" height="25" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-215.gif"  />
+<img align="left" height="28" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-215.gif"  />
 
 ###
 
@@ -126,7 +126,7 @@
 
 ###
 
-<img align="left" height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Men%20Holding%20Hands%20Light%20Skin%20Tone.png"  />
+<img align="left" height="28" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Men%20Holding%20Hands%20Light%20Skin%20Tone.png"  />
 
 ###
 
