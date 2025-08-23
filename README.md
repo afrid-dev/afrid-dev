@@ -6,5 +6,5 @@
 </h1>
 <h3 align="center">
   <span>A passionate Web developer from India</span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" height="70" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" height="65" />
 </h3>
