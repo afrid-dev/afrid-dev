@@ -4,6 +4,6 @@
 
 ###
 
-<h1 align="left">Hi there👋, I'm Mounshi Afrid Hossain🧑</h1>
+<h1 align="left">Hi there, I'm Mounshi Afrid Hossain🧑</h1>
 
 ###
