@@ -130,7 +130,7 @@
 
 ###
 
-<h2 align="left">Let's Connect:</h2>
+<h2 align="left">&nbsp;Let's Connect:</h2>
 
 ###
 
