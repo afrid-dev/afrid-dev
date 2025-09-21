@@ -139,7 +139,7 @@
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-logo-3d-icon-png-download-12257269.png"  height="35" alt="linkedin logo"/>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
  
   <a href="https://mail.google.com/mail/?view=cm&to=mounshi123@gmail.com" target="_blank">
-    <img src="https://ouch-prod-var-cdn.icons8.com/zt/illustrations/previews/G0BDpKqa70fuir4R.webp"  height="40" alt="gmail logo"  />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+    <img src="https://ouch-prod-var-cdn.icons8.com/zt/illustrations/previews/G0BDpKqa70fuir4R.webp"  height="38" alt="gmail logo"  />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   </a>
   <a href="https://www.facebook.com/munshiafrid.hossain" target="_blank">
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-logo-3d-icon-png-download-12257268.png"  height="35" alt="facebook logo"  />
@@ -147,5 +147,5 @@
 </div>
 
 ###
-src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-icon-png-download-5753431.png"
+
 ###
